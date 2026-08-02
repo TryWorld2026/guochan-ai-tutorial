@@ -1,0 +1,9 @@
+# Windows 系统/本地文件
+*.lnk
+Thumbs.db
+Desktop.ini
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
